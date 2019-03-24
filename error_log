@@ -1,0 +1,178 @@
+[28-Mar-2018 22:31:51 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[28-Mar-2018 22:31:51 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[28-Mar-2018 22:31:51 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[28-Mar-2018 22:31:51 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[28-Mar-2018 22:31:51 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rjwhostc/public_html/modelos/rpg/index.php on line 13
+[28-Mar-2018 22:31:52 America/Sao_Paulo] PHP Notice:  Undefined index: username in /home/rjwhostc/public_html/modelos/rpg/index.php on line 82
+[28-Mar-2018 22:31:58 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[28-Mar-2018 22:31:58 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[28-Mar-2018 22:31:58 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[28-Mar-2018 22:31:58 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[28-Mar-2018 22:32:07 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[28-Mar-2018 22:32:07 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[28-Mar-2018 22:32:07 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[28-Mar-2018 22:32:07 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[08-Dec-2018 11:18:42 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[08-Dec-2018 11:18:42 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[08-Dec-2018 11:18:42 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[08-Dec-2018 11:18:42 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[08-Dec-2018 11:18:42 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rjwhostc/public_html/modelos/rpg/index.php on line 13
+[08-Dec-2018 11:18:42 America/Sao_Paulo] PHP Notice:  Undefined index: username in /home/rjwhostc/public_html/modelos/rpg/index.php on line 82
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 31
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Notice:  Undefined variable: setting in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 34
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 34
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Notice:  Undefined variable: player in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 40
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 40
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 59
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 54
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 59
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 54
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Notice:  Undefined index: new_criteria in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 9
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Notice:  Use of undefined constant bank - assumed 'bank' in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 12
+[08-Dec-2018 11:18:46 America/Sao_Paulo] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 20
+[23-Mar-2019 18:22:22 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[23-Mar-2019 18:22:22 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[23-Mar-2019 18:22:22 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[23-Mar-2019 18:22:22 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[23-Mar-2019 18:22:22 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rjwhostc/public_html/modelos/rpg/index.php on line 13
+[23-Mar-2019 18:22:22 America/Sao_Paulo] PHP Notice:  Undefined index: username in /home/rjwhostc/public_html/modelos/rpg/index.php on line 82
+[23-Mar-2019 18:22:44 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[23-Mar-2019 18:22:44 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[23-Mar-2019 18:22:44 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[23-Mar-2019 18:22:44 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[23-Mar-2019 18:23:40 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[23-Mar-2019 18:23:40 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[23-Mar-2019 18:23:40 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[23-Mar-2019 18:23:40 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 31
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Notice:  Undefined variable: setting in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 34
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 34
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Notice:  Undefined variable: player in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 40
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 40
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 59
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 54
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 59
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 54
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Notice:  Undefined index: new_criteria in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 9
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Notice:  Use of undefined constant bank - assumed 'bank' in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 12
+[23-Mar-2019 18:23:48 America/Sao_Paulo] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 20
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 31
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Notice:  Undefined variable: setting in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 34
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 34
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Notice:  Undefined variable: player in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 40
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 40
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 59
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 54
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 59
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 54
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Notice:  Undefined index: new_criteria in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 9
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Notice:  Use of undefined constant bank - assumed 'bank' in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 12
+[23-Mar-2019 18:41:46 America/Sao_Paulo] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 20
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 31
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Notice:  Undefined variable: setting in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 34
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 34
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Notice:  Undefined variable: player in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 40
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 40
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 59
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 54
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 59
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 54
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Notice:  Undefined index: new_criteria in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 9
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Notice:  Use of undefined constant bank - assumed 'bank' in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 12
+[23-Mar-2019 18:41:54 America/Sao_Paulo] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 20
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 31
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Notice:  Undefined variable: setting in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 34
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 34
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Notice:  Undefined variable: player in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 40
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 40
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 59
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 54
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 59
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 54
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Notice:  Undefined index: new_criteria in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 9
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Notice:  Use of undefined constant bank - assumed 'bank' in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 12
+[23-Mar-2019 18:42:44 America/Sao_Paulo] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 20
+[23-Mar-2019 18:53:54 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[23-Mar-2019 18:53:54 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[23-Mar-2019 18:53:54 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[23-Mar-2019 18:53:54 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[23-Mar-2019 18:53:54 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rjwhostc/public_html/modelos/rpg/index.php on line 13
+[23-Mar-2019 18:53:54 America/Sao_Paulo] PHP Notice:  Undefined index: username in /home/rjwhostc/public_html/modelos/rpg/index.php on line 82
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 31
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Notice:  Undefined variable: setting in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 34
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 34
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Notice:  Undefined variable: player in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 40
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Notice:  Trying to get property of non-object in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 40
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 59
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 54
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 59
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'count' in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 54
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Notice:  Object of class ADORecordSet_mysql could not be converted to int in /home/rjwhostc/public_html/modelos/rpg/lib/functions.php on line 83
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Notice:  Undefined index: new_criteria in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 9
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Notice:  Use of undefined constant bank - assumed 'bank' in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 12
+[23-Mar-2019 18:54:03 America/Sao_Paulo] PHP Notice:  Use of undefined constant level - assumed 'level' in /home/rjwhostc/public_html/modelos/rpg/addins/leaders.php on line 20
+[23-Mar-2019 19:37:23 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[23-Mar-2019 19:37:23 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[23-Mar-2019 19:37:23 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[23-Mar-2019 19:37:23 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[23-Mar-2019 19:37:23 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rjwhostc/public_html/modelos/rpg/index.php on line 13
+[23-Mar-2019 19:37:23 America/Sao_Paulo] PHP Notice:  Undefined index: username in /home/rjwhostc/public_html/modelos/rpg/index.php on line 82
+[24-Mar-2019 10:48:49 America/Sao_Paulo] PHP Strict Standards:  Only variables should be assigned by reference in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 11
+[24-Mar-2019 10:48:49 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rjwhostc/public_html/modelos/rpg/lib/adodb/drivers/adodb-mysql.inc.php on line 364
+[24-Mar-2019 10:48:49 America/Sao_Paulo] PHP Notice:  Undefined variable: d in /home/rjwhostc/public_html/modelos/rpg/lib/languages/en.php on line 149
+[24-Mar-2019 10:48:49 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/rjwhostc/public_html/modelos/rpg/lib.php on line 27
+[24-Mar-2019 10:48:49 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rjwhostc/public_html/modelos/rpg/index.php on line 13
+[24-Mar-2019 10:48:49 America/Sao_Paulo] PHP Notice:  Undefined index: username in /home/rjwhostc/public_html/modelos/rpg/index.php on line 82
